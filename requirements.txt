@@ -14,7 +14,7 @@ jupyter-client==6.1.5
 jupyter-core==4.6.3
 MarkupSafe==1.1.1
 numpy==1.19.2
-pandas==1.2.1
+pandas==1.2.2
 pip==20.3.3
 pycparser==2.20
 pyOpenSSL==20.0.1
