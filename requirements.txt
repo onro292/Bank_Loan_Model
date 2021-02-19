@@ -13,8 +13,6 @@ joblib==1.0.0
 jupyter-client==6.1.5
 jupyter-core==4.6.3
 MarkupSafe==1.1.1
-mkl-random==1.1.1
-mkl-service==2.3.0
 numpy==1.19.2
 pandas==1.2.1
 pip==20.3.3
