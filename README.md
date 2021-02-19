@@ -1,2 +1,6 @@
 # Bank_Loan_Model
-Query data through PostgreSQL, Exploratory Data Analysis, used Logistic Regression and Decision Tree's to predict whether customers will take out a personal loan..
+
+Bank_Loan_Project.ipynb is the most recent jupyter notebook.
+
+The class_deploy.py file is the flask app API that hosts the model.pkl machine learning model.
+requests.py is a test to make sure the API was up and running.
