@@ -32,4 +32,3 @@ if __name__=="__main__":
     serve(app, host="0.0.0.0", port=5000)
 
 
-# model.predict([[34, 180, 3, 1.5, 2, 0, 1, 0, 1, 0]])[0]
